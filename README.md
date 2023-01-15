@@ -1,4 +1,4 @@
-### Welcome!! i'm Emily ✨
+### Welcome! i'm Emily ✨
 
 - 👩‍💻 I’m currently working on web development
 - 📚 I’m currently learning Java
